@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my page 👋
 
-You can use the [editor on GitHub](https://github.com/Koolwiza/Koolwiza.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am the creator of [Bot 12](https://discord.com/oauth2/authorize?client_id=800549820485599272&scope=bot&permissions=2080768255). 
+A discord bot created to enhance your server to its greatest.
+I do not have many other major projects all though I'm thinking of starting to do HTML/CSS... 👀
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Koolwiza/Koolwiza.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact me through Discord: Tag: Raccoon#7867. If I changed it just submit an issue on [this repo](https://github.com/Koolwiza/Bot-12/tree/master). I'll eventually look at it lol
